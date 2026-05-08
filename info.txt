@@ -1,0 +1,9 @@
+Es handelt sich um ein klassisches Spielautomaten-Spiel (Slot Machine) mit drei digitalen Walzen. Das Ziel ist, durch das Drehen der Walzen Gewinnkombinationen zu erzielen.
+
+Spielablauf:
+Du startest mit einem Guthaben von 1000€. Deinen Einsatz kannst du in 5€-Schritten zwischen 5€ und 100€ anpassen. Ein Klick auf "DREHEN" startet das Spiel, woraufhin dein Einsatz vom Guthaben abgezogen wird. Die Walzen drehen sich und kommen zufällig auf einer Symbolkombination zum Stehen.
+
+Gewinne:
+Es gibt verschiedene Symbole wie Kirschen (🍒), Zitronen (🍋) und Diamanten (💎). Drei gleiche Symbole oder bereits zwei gleiche Symbole auf den Walzen führen zu einem Gewinn, der deinem Guthaben gutgeschrieben wird. Eine Gewinntabelle zeigt die genauen Multiplikatoren für jede Kombination an. Die höchste Auszahlung gibt es für drei Diamanten.
+
+Das Spiel verfügt über visuelle Effekte und eine Nachrichtenanzeige, die über Gewinne, Verluste und den Spielstatus informiert. Falls dein Guthaben aufgebraucht ist, kannst du es durch Drücken der "R"-Taste wieder auf 1000€ aufladen.
